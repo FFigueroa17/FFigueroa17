@@ -13,10 +13,9 @@
 * 💻 I'm a front end developer
 * 🎨 I'm a self-taught UI/UX designer
 * 📱 I am focused on web development and mobile application development
-* 📱 I have 1+ year of experience working with ReactJS
+* 📱 I have 3+ year of experience working with React
 * 🎓 I'm a Software Engineer Student (graduating in 2026 at [UCA](https://uca.edu.sv))
 * 💬 Ask me about React, Node.js, Express, MongoDB, Kotlin, SQL
-* 🌐 You can see some of my projects on [my portfolio](https://ffigueroa17.github.io/ffigueroa_portfolio/)
 
 <p align="left">
   <a href="https://ffigueroa17.github.io/ffigueroa_portfolio/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
